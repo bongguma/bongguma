@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 병아리 앱 개발자 김예진 입니다 🐣
 
 <!--
 **bongguma/bongguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
