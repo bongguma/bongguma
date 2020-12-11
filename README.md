@@ -1,4 +1,11 @@
-### 안녕하세요 병아리 앱 개발자 김예진 입니다 🐣
+## Hello Everyone, My name is YeJin 🐣
+------------------------------------------------------------
+
+## 📚 My Interest
+------------------------------------------------------------
++ Java | Spring Boot
++ Swift | Object-C
++ React-Native
 
 <!--
 **bongguma/bongguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
