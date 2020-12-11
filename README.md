@@ -1,8 +1,8 @@
 ## Hello Everyone, My name is YeJin 🐣
 
 ### 📌 My Career
-+ **UDID (2019.12 - current) | App Developer**
-+ 
++ **UDID (2018.12 - current) | App Developer**
++ Samjung DataService (2018.09 - 2018.11) | Web Front Developer
 
 ### 📚 My Interest
 + Java | Spring Boot
