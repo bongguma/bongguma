@@ -1,7 +1,7 @@
 ## Hello Everyone, My name is YeJin 🐣
 
 ### 📌 My Career
-+ #####UDID (2019.12 - current) | App Developer
++ **굵게**UDID (2019.12 - current) | App Developer
 + 
 
 ### 📚 My Interest
