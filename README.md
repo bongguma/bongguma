@@ -1,6 +1,6 @@
 ## Hello Everyone, My name is YeJin 🐣
 
-### 📌 My Career
+### 📌 My Experience
 + **UDID (2018.12 - current) | App Developer**
 + Samjung DataService (2018.09 - 2018.11) | Web Front Developer
 
