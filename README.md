@@ -9,7 +9,7 @@
 + Swift | Object-C
 + React-Native
 
-[![bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma)](https://github.com/anuraghazra/github-readme-stats)
+[![bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bongguma/bongguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
