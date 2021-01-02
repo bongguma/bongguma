@@ -2,7 +2,7 @@
 
 ### 📌 My Experience
 + **UDID (2018.12 - current) | App Developer**
-+ Samjung DataService (2018.09 - 2018.11) | Web Front Developer
++ Samjung DataService (2018.09 - 2018.11) | Web Front Develope
 
 ### 📚 My Interest 
 + Java | Spring Boot
