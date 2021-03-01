@@ -5,8 +5,9 @@
 + Samjung DataService (2018.09 - 2018.11) | Web Front Developer
 
 ### 📚 My Interest 
-+ Java | Spring Boot
-+ Swift | Object-C
++ Android | Java | Spring Boot
++ iOS | Swift | Object-C
++ Firebase
 + React-Native
 
 [![Bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
