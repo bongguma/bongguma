@@ -5,7 +5,7 @@
 + UDID (2018.12 - 2021.03) | App Developer
 + Samjung DataService (2018.09 - 2018.11) | Web Front Developer
 
-### 📚 My Interest 
+### 📚 Skill Set
 + Android | Java | Spring Boot
 + iOS | Swift | Object-C
 + Firebase
