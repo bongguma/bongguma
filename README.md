@@ -1,7 +1,7 @@
 ## Hello Everyone, My name is YeJin 🐣
 
 ### 📌 My Experience
-+ **WWC  (2022.01 - current) | App Developer** 
++ **PPB Studios (2022.01 - current) | App Developer** 
 + VAIV (2021.04 - 2022.01) | App Developer
 + UDID (2018.12 - 2021.03) | App Developer
 + Samjung DataService (2018.09 - 2018.11) | Web Front Developer
