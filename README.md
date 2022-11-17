@@ -1,10 +1,10 @@
 ## Hello Everyone, My name is YeJin 🐣
 
 ### 📌 My Experience
-+ **WiNC (2022.02 - current) | App Developer** 
-+ VAIV (2021.04 - 2022.01) | App Developer
-+ UDID (2018.12 - 2021.03) | App Developer
-+ Samjung DataService (2018.09 - 2018.11) | Web Front Developer
+<!-- + **WiNC (2022.02 - current) | App Developer** -->
+<!-- + VAIV (2021.04 - 2022.01) | App Developer -->
+<!-- + UDID (2018.12 - 2021.03) | App Developer -->
+<!-- + Samjung DataService (2018.09 - 2018.11) | Web Front Developer -->
 
 [![Bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
