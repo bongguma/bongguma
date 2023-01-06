@@ -6,6 +6,15 @@
 <!-- + UDID (2018.12 - 2021.03) | App Developer -->
 <!-- + Samjung DataService (2018.09 - 2018.11) | Web Front Developer -->
 
+### 📌 My Skills
+<div>
+<img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=Flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+</div>
+
+<br>
+
 [![Bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
