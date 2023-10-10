@@ -15,7 +15,7 @@
 
 <br>
 
-[![Bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+// [![Bongguma's github stats](https://github-readme-stats.vercel.app/api?username=bongguma&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bongguma/bongguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
