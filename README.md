@@ -10,6 +10,8 @@
 <div>
 <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
+<img src='https://img.shields.io/badge/Java-FEFEFE?style=flat&logo=swift&logoWidth=20'/>
+<img src='https://img.shields.io/badge/Swift-FEFEFE?style=flat&logo=swift&logoWidth=20'/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
