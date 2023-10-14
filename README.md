@@ -1,6 +1,6 @@
 ## Hello Everyone, My name is YeJin 🐣
 
-<!-- ### 📌 My Experience -->
+### 📌 My Experience
 <!-- + **WiNC (2022.02 - current) | App Developer** -->
 <!-- + VAIV (2021.04 - 2022.01) | App Developer -->
 <!-- + UDID (2018.12 - 2021.03) | App Developer -->
@@ -9,8 +9,9 @@
 ### 📌 My Skills
 <div>
 <img src="https://img.shields.io/badge/Flutter-3766AB?style=flat-square&logo=Flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
 
