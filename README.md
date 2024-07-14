@@ -1,4 +1,4 @@
-## Hello Everyone, My name is YeJin 🐣
+## Hello Everyone, YeJin 🐣
 
 <!-- ### 📌 My Experience -->
 <!-- + **WiNC (2022.02 - current) | App Developer** -->
@@ -14,6 +14,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
+### 👩🏻‍💻 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bongguma&layout=compact&theme=dracula)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbongguma&count_bg=%23F18598&title_bg=%23555555&icon=waze.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **bongguma/bongguma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
